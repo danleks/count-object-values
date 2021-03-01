@@ -64,4 +64,3 @@ const countPizzasToppings = (pizzas) => {
 }
 
 const toppingsWithCount = countPizzasToppings(pizzasArray);
-console.log(toppingsWithCount);
